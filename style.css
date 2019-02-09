@@ -2,6 +2,9 @@ body {
 	font-weight: Helvetica; 
 	margin: 0;
 }
+h1 {
+	font-weight: 100;
+}
 
 .logo {
 	height: 80px;
