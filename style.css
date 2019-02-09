@@ -5,10 +5,14 @@ body {
 }
 h1 {
 	font-weight: 100;
+	margin-bottom: 0px;
+	font-weight: bold;
 }
 
 p {
-	font-weight: bold;
+	font-weight: lighter;
+	font-size: 30px;
+	opacity: 0.8;
 
 }
 .logo {
