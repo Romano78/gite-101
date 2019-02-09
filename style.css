@@ -6,6 +6,10 @@ h1 {
 	font-weight: 100;
 }
 
+p {
+	font-weight: bold;
+
+}
 .logo {
 	height: 80px;
 	width: 80px;
